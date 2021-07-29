@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Download CV here:
++ [CV (in English)](http://salahim.github.io/files/Salahi_CV_en.pdf)
++ [CV (in Persian)](http://salahim.github.io/files/Salahi_CV_fa.pdf)
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
