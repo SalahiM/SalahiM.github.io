@@ -7,7 +7,7 @@ date: 2021-02-17
 venue: 'Aquatic Ecology'
 paperurl: 'https://rd.springer.com/article/10.1007/s10452-021-09832-x'
 <<<<<<< HEAD
-citation: 'Mirzajani, et al. Trophic flexibility of Eurasian otter (2021)'
+citation: 'Mirzajani, et al. 2021'
 =======
 citation: 'Mirzajani, A., Naderi, S., Ganeh, A. et al. Trophic flexibility of Eurasian otter (Lutra lutra) in Anzali Wetland, Iran, assessed by fecal and stable isotope analysis. Aquat Ecol 55, 401–415 (2021). https://doi.org/10.1007/s10452-021-09832-x'
 >>>>>>> 615360a29ecf7158a9e50d5d659c845f44a08d5f
