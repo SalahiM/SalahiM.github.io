@@ -3,7 +3,7 @@ title: "Trophic flexibility of Eurasian otter (Lutra lutra) in Anzali Wetland, I
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 17 February 2021
+date: 2021-02-17
 venue: 'Aquatic Ecology'
 paperurl: 'https://rd.springer.com/article/10.1007/s10452-021-09832-x'
 citation: 'Mirzajani, A., Naderi, S., Ganeh, A. et al. Trophic flexibility of Eurasian otter (Lutra lutra) in Anzali Wetland, Iran, assessed by fecal and stable isotope analysis. Aquat Ecol 55, 401–415 (2021). https://doi.org/10.1007/s10452-021-09832-x'
