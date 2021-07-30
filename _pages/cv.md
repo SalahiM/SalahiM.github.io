@@ -26,7 +26,7 @@ Work experience
   * Duties included: predictive models of Amphidods distribution
   * Supervisor: Professor Farzaneh Momtazi
 
-* summer 2021: Lecturer
+* summer 2020: Lecturer
   * Bu Ali Sina university
   * Duties included: Rprogramming Lectures
   
