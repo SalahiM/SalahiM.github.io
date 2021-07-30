@@ -15,30 +15,28 @@ Download CV here:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Fisheries Ecology, Gorgan University of Agricultural Sciences & Natural Resources, 2018-2012
+* M.Sc. in Fisheries Science (Fishing and Exploitation), Gorgan University of Agricultural Sciences & Natural Resources, 2013-2015
+* Ph.D in Production and Explotation of Aquatics, University of Hormozgan, 2016-2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021-Present: Research Assistant
+  * Iranian National Institute for Oceanography
+  * Duties included: predictive models of Amphidods distribution
+  * Supervisor: Professor Farzaneh Momtazi
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* summer 2021: Lecturer
+  * Bu Ali Sina university
+  * Duties included: Rprogramming Lectures
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R
+* Python
+* statistics
+* Digital Mapping
+* Bayesian mixing model
 
 Publications
 ======
@@ -57,7 +55,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
