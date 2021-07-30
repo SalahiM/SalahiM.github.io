@@ -1,7 +1,7 @@
 ﻿---
 title: "Trophic flexibility of Eurasian otter (Lutra lutra) in Anzali Wetland, Iran, assessed by fecal and stable isotope analysis"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2021-02-17-paper-title-number-1
 excerpt: 'stable isotope analysis'
 date: 2021-02-17
 venue: 'Aquatic Ecology'
