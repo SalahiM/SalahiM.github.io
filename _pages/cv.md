@@ -28,7 +28,7 @@ Work experience
 
 * summer 2020: Lecturer
   * Bu Ali Sina university
-  * Duties included: Rprogramming Lectures
+  * Duties included: R programming Lectures
   
 Skills
 ======
