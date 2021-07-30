@@ -1,7 +1,7 @@
 ---
 title: "Length-weight relationships of three fish species from Jask mangrove protected area in northern coastline of Gulf of Oman (Hormozgan, Iran): Liza klunzingeri (Day, 1888), Cociella crocodilus (Cuvier, 1829)"
 collection: publications
-permalink: /publication/2017-02-17-paper-LWR-Jask-mangrove-number-1
+permalink: /publication/2017-02-17-paper-LWR-Jask-mangrove-number-4
 excerpt: 'LWRs'
 date: 2019-02-17
 venue: 'Journal of Applied Ichthyology'
