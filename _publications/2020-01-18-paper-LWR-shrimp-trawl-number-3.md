@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Length-Weight Relationships of Four Fish Species Associated to Shrimp Trawl Fishery as by-Catch in the Persian Gulf, Iran"
 collection: publications
 permalink: /publication/2020-01-18-paper-LWR-shrimp-trawl-number-3
