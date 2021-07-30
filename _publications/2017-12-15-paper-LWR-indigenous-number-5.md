@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Length-weight and length-length relationships of three indigenous fish species in Persian Gulf, Iran"
 collection: publications
 permalink: /publication/2021-12-15-paper-LWR-indigenous-number-5
